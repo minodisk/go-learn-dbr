@@ -1,0 +1,21 @@
+{
+    "memo": "ee2a78b833d57cce16f410496ffa6afeb7eb1ac877616d9c96a6a2d40e4eae93",
+    "projects": [
+        {
+            "name": "github.com/go-sql-driver/mysql",
+            "version": "v1.3",
+            "revision": "a0583e0143b1624142adab07e0e97fe106d99561",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/gocraft/dbr",
+            "version": "v2.1",
+            "revision": "b2f0ffcef2a64c0729d5818e103bc019caed7b22",
+            "packages": [
+                "."
+            ]
+        }
+    ]
+}
